@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/chronometer-class/static/js/main.3b063639.chunk.js",
+    "main.js.map": "/chronometer-class/static/js/main.3b063639.chunk.js.map",
+    "runtime-main.js": "/chronometer-class/static/js/runtime-main.b278e240.js",
+    "runtime-main.js.map": "/chronometer-class/static/js/runtime-main.b278e240.js.map",
+    "static/js/2.f57dc378.chunk.js": "/chronometer-class/static/js/2.f57dc378.chunk.js",
+    "static/js/2.f57dc378.chunk.js.map": "/chronometer-class/static/js/2.f57dc378.chunk.js.map",
+    "index.html": "/chronometer-class/index.html",
+    "static/js/2.f57dc378.chunk.js.LICENSE.txt": "/chronometer-class/static/js/2.f57dc378.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b278e240.js",
+    "static/js/2.f57dc378.chunk.js",
+    "static/js/main.3b063639.chunk.js"
+  ]
+}
